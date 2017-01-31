@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 2em 2em;
+    border: 2px solid black;
+    height: 2em;
+    width: 20em;
+}
