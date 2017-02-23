@@ -4,9 +4,27 @@ li{
     margin: 0;
     padding: 0;
 }
-div{
+div#affichage {
     margin: 2em 2em;
     border: 2px solid black;
     height: 2em;
     width: 20em;
+    background-color: white;
+    text-align: center;
+}
+
+div.cont {
+    background-color: rgb(41, 41, 41);
+    border-radius: 1em;
+    border: 5px solid gray;
+    width: 21%;
+    margin: auto;
+}
+
+input {
+    padding: 1.5em;
+    color: white;
+    border-radius: 5px;
+    background-color: rgb(46, 1, 143);
+    border: 2px solid white;
 }
